@@ -2,7 +2,7 @@
 # Hi, I'm Joshua 
 
 
-**![](https://lh3.googleusercontent.com/enM6is34jBEOp9ppoqUggNw1lElukOyRQoYPT1Co-8paXcu5e5glpJXSAb6BO9L35CXkGLc0P5b4fjGctwcd2Cf3iGUHFHzirYRgfDvfSJ54e8yYXzkMRspQYzhP_NIjuEtfvTct)**
+**![](Encabezado_Github_Profile.gif)**
 I'm a passionate developer, that loves to teach others all my knwoledge.
 
 I've had the opportunity to participate on world class projects :globe_with_meridians:
