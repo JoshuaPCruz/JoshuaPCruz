@@ -2,7 +2,7 @@
 # Hi, I'm Joshua 
 
 
-**![](Encabezado_Github_Profile.gif)**
+**![](https://github.com/JoshuaPCruz/JoshuaPCruz/blob/master/Encabezado_Github_Profile.gif)**
 I'm a passionate developer, that loves to teach others all my knwoledge.
 
 I've had the opportunity to participate on world class projects :globe_with_meridians:
