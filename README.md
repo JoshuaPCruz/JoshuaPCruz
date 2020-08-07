@@ -13,3 +13,5 @@ Such as BBVA Smart Assistant, chatbots and many more. :robot:
 I'm co-lead of the [Facebook Developer Circles CDMX](https://www.facebook.com/groups/DevCCiudaddeMexico) community and I really like to help a lot of communities, not only on Mexico, but around the world. 
 
 I specialize in web development and been starting on the devops world
+
+Follow me to know more about me.
