@@ -15,3 +15,4 @@ I'm co-lead of the [Facebook Developer Circles CDMX](https://www.facebook.com/gr
 I specialize in web development and been starting on the devops world
 
 Follow me to know more about me.
+[Twitter](https://twitter.com/Joshuapcruz)
