@@ -8,7 +8,7 @@
 
 I've had the opportunity to participate on world class projects :globe_with_meridians:
 
-Such as BBVA Smart Assistant, chatbots and many more. :robot:
+Such as BBVA Smart Assistant, Platzi, chatbots and many more. :robot:
 
 I'm co-lead of the [Facebook Developer Circles CDMX](https://www.facebook.com/groups/DevCCiudaddeMexico) community and I really like to help a lot of communities, not only on Mexico, but around the world. 
 
